@@ -1,16 +1,24 @@
-# app_biblioteca
+<h1 align="center">📱 Atividade Avaliativa de Dart com Flutter 📱</h1>
 
-A new Flutter project.
+<p align="center">
+  Atividade Avaliativa de Dart com Flutter (Em Construção) <br/>
+  Objeto de estudo na disciplina Desenvolvimento para Dispositivos Móveis <br/>
+</p>
 
-## Getting Started
+## 🚀 Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- **Dart**: Linguagem de programação utilizada.
+- **Flutter**: Framework para desenvolvimento de aplicativos móveis.
+- **Git & GitHub**: Controle de versão e hospedagem do código.
 
-A few resources to get you started if this is your first Flutter project:
+## 🏁 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Alguns recursos para começar se este for seu primeiro projeto Flutter:
+
+- 📚 [Lab: Write Your First Flutter App](https://docs.flutter.dev/get-started/codelab): Um tutorial prático para criar sua primeira aplicação Flutter.
+- 🍲 [Cookbook: Useful Flutter Samples](https://docs.flutter.dev/cookbook): Uma coleção de exemplos úteis para resolver problemas comuns em Flutter.
+
+Para ajuda com o desenvolvimento em Flutter, consulte a [documentação online](https://docs.flutter.dev/), que oferece tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API.
+
