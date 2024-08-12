@@ -90,7 +90,7 @@ class Detalhes_a_revolucao_dos_bichos extends StatelessWidget {
                         alignment: Alignment.center,
                         height: 30,
                         //color: Colors.red,
-                        child: Text('**')
+                        child: Text('Companhia das Letras')
                       )
                     ) 
                   ]
